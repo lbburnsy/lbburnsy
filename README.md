@@ -2,12 +2,16 @@
 
 I'm Luc, a full stack web developer with a concentraion on back end technologies.
 
+### Projects I'm Stoked On
+
+- ⭐ - [Remote Recruit](https://remote-recruit.herokuapp.com) - A full stack job marketplace focused on finding freelancers jobs.
+- ⭐ - [Weather Dashboard](https://lbburnsy.github.io/weather-dashboard) - A front end weather forecast app. Don't get stuck in the rain again!
 ___
 
-- 🔭 I really enjoy JavaScript and Node. Bulma has been one of my favorites for my recent front end projects.
-- 🌱 I’m always excited to learn. Currently I'm diving into the wide world of Python.
-- 👯 I’m always excited to collaborate. Let's build something together!
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/luc-burns/)
+- 🔭 - I really enjoy JavaScript and Node. Bulma has been one of my favorites for my recent front end projects.
+- 🌱 - I’m always excited to learn. Currently I'm diving into the wide world of Python.
+- 👯 - I’m always excited to collaborate. Let's build something together!
+- 📫 - Connect with me on [LinkedIn](https://www.linkedin.com/in/luc-burns/)
 
 ___
 
