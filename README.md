@@ -11,7 +11,8 @@ ___
 - 🔭 - I really enjoy JavaScript and Node. Bulma has been one of my favorites for my recent front end projects.
 - 🌱 - I’m always excited to learn. Currently I'm diving into the wide world of Python.
 - 👯 - I’m always excited to collaborate. Let's build something together!
-- 📫 - Connect with me on [LinkedIn](https://www.linkedin.com/in/luc-burns/)
+- 💬 - Connect with me on [LinkedIn](https://www.linkedin.com/in/luc-burns/)
+- 📫 - Shoot me an [email!](mailto:burnsluc@gmail.com)
 
 ___
 
