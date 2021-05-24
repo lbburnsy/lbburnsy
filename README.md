@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Luc, a full stack web developer with a concentraion on back end technologies.
+I'm Luc, a full stack web developer with a concentration on back end technologies.
 
 ### Projects I'm Stoked On
 
